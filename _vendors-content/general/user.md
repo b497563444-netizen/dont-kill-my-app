@@ -4,7 +4,7 @@ manufacturer:
 ---
 
 ### Android 6+
-
+https://github.com/RikkaApps/Shizuku.git
 Always check the following setting:
 
 - on older devices:<br>
